@@ -1,0 +1,30 @@
+﻿@model IEnumerable<PhotoArchiveCoilsWeb.Cam>
+
+@{
+    ViewData["Title"] = "Index Cams";
+}
+
+
+<body>
+    <!-- The main container DIV starts here -->
+    <div class="container">
+        <div class="row">
+            <!--First row containing the main Heading-->
+            <div class="col-lg-12">
+                <h1 class="page-header">Welcome in PhotoArchiveCoils</h1>
+                <p>Cams configurated</a>.</p>
+            </div>
+            @foreach (var item in Model)
+            {
+                <!--Next row containing the respective images in 3x4 grids starts here -->
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <a> @Html.DisplayFor(modelItem => item.Name)</a>
+                        <img src='@Url.Action("GetLoadImage", "PhotoArchives", new { id = item.Url })' class="img-fluid" alt="Responsive image" />
+                    </div>
+                </div>
+            }
+        </div>
+            </div>
+</body>
+<meta http-equiv="refresh" content="5">

@@ -1,0 +1,33 @@
+batterie
+http://admin:admin@10.3.112.101/media/cam0/still.jpg
+http://admin:admin@10.3.112.102/media/cam0/still.jpg
+http://admin:admin@10.3.112.103/media/cam0/still.jpg
+http://admin:admin@10.3.112.104/media/cam0/still.jpg
+http://admin:admin@10.3.112.105/media/cam0/still.jpg
+http://admin:admin@10.3.112.106/media/cam0/still.jpg
+http://admin:admin@10.3.112.107/media/cam0/still.jpg
+http://admin:admin@10.3.112.108/media/cam0/still.jpg
+altoforno
+http://admin:admin@10.3.115.101/media/cam0/still.jpg
+http://admin:admin@10.3.115.102/media/cam0/still.jpg
+http://admin:admin@10.3.115.103/media/cam0/still.jpg ok
+http://admin:admin@10.3.115.104/media/cam0/still.jpg non funziona
+parchi
+http://admin:admin@10.3.116.101/media/cam0/still.jpg ok
+http://admin:admin@10.3.116.102/media/cam0/still.jpg ok
+http://admin:admin@10.3.116.103/media/cam0/still.jpg
+http://admin:admin@10.3.116.104/media/cam0/still.jpg  password sbagliata
+http://admin:admin@10.3.116.105/media/cam0/still.jpg ok
+agglomerato
+http://admin:admin@10.3.117.101/media/cam0/still.jpg 
+http://admin:admin@10.3.117.102/media/cam0/still.jpg
+http://admin:admin@10.3.117.103/media/cam0/still.jpg
+http://admin:admin@10.3.117.104/media/cam0/still.jpg ok
+http://admin:admin@10.3.117.105/media/cam0/still.jpg
+http://admin:admin@10.3.117.106/media/cam0/still.jpg  ok
+http://admin:admin@10.3.117.107/media/cam0/still.jpg  ok
+http://admin:admin@10.3.117.108/media/cam0/still.jpg
+http://admin:admin@10.3.117.109/media/cam0/still.jpg  ok
+http://admin:admin@10.3.117.110/media/cam0/still.jpg
+http://admin:admin@10.3.117.111/media/cam0/still.jpg
+http://admin:admin@10.3.117.112/media/cam0/still.jpg non funziona
