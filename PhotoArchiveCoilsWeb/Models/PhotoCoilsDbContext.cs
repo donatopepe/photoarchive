@@ -24,7 +24,7 @@ namespace PhotoArchiveCoilsWeb.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=ID65426;Database=PhotoCoilsDb;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer(Environment.GetEnvironmentVariable("ConnectionStrings__DefaultConnection") ?? throw new InvalidOperationException("ConnectionStrings__DefaultConnection must be configured."));
             }
         }
 
