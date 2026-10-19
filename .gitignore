@@ -54,3 +54,7 @@ dkms.conf
 # Local IDE state and credentials
 *.user
 appsettings.Development.json
+
+# Local configuration may contain private networks and credentials
+PhotoArchiveCoilsWeb/appsettings.json
+PhotoArchiveCoilsWeb/appsettings - Copia.json
