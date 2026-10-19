@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Local IDE state and credentials
+*.user
+appsettings.Development.json
